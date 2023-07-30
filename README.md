@@ -7,7 +7,7 @@
 ## My Skill Set
 <table align="center">
   <tr>
-    <td valign="top">
+    <td valign="top" style="width: 25%; max-width: 25%;">
       <h3 align="center">Programming Languages</h3>
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -15,7 +15,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
       </div>
     </td>
-    <td valign="top">
+    <td valign="top" style="width: 25%; max-width: 25%;">
       <h3 align="center">Frontend</h3>
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -28,7 +28,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
       </div>
     </td>
-    <td valign="top">
+    <td valign="top" style="width: 25%; max-width: 25%;">
       <h3 align="center">Backend</h3>
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
@@ -37,7 +37,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
       </div>
     </td>
-    <td valign="top">
+    <td valign="top" style="width: 25%; max-width: 25%;">
       <h3 align="center">Database & DevOps</h3>
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
