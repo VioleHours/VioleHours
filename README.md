@@ -3,6 +3,9 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <h3 align="center">Salta, Argentina🌎</h3><br/>
+<p>HELLO WORLD! I'm a full-stack web developer, honing my skills in front-end development. I'm currently working on some projects that are increasing in complexity, or at least that's the plan, haha. I hope you enjoy watching my progress as much as I do, and we'll keep updating.
+
+Project 1/100</p>
 
 ## My Skill Set
 <table align="center">
