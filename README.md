@@ -3,7 +3,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <h3 align="center">Salta, Argentina🌎</h3><br/>
-<p>HELLO WORLD! I'm a full-stack web developer, honing my skills in front-end development. I'm currently working on some projects that are increasing in complexity, or at least that's the plan, haha. I hope you enjoy watching my progress as much as I do, and we'll keep updating.
+<p>HELLO WORLD! I'm a Frontend web developer and UX/UI Designer with a background in Audiovisual Production. I have experience in Frontend development and skills in Agile methodologies. In addition to technical skills such as JavaScript, TypeScript, React, Angular, and TailwindCSS, I've worked on both individual and group projects, which has helped me develop soft skills like effective communication, teamwork, adaptability, and problem-solving.
 
 </p>
 
