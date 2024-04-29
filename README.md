@@ -4,8 +4,12 @@
 </div>
 <h3 align="center">Salta, Argentina🌎</h3><br/>
 <p>HELLO WORLD! I'm a Frontend web developer and UX/UI Designer with a background in Audiovisual Production. I have experience in Frontend development and skills in Agile methodologies. In addition to technical skills such as JavaScript, TypeScript, React, Angular, and TailwindCSS, I've worked on both individual and group projects, which has helped me develop soft skills like effective communication, teamwork, adaptability, and problem-solving.
-
 </p>
+
+<h3 align="center">​I love teamwork</h3>
+<div align="center">
+    <img src="https://github.com/davidtheclark/gifs/blob/master/teamwork-cat-dog.gif" alt="teamwork-cat-dog" style="display:block; margin:auto;">
+</div>
 
 ## My Skill Set
 <table align="center">
