@@ -3,7 +3,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <h3 align="center">Salta, Argentina🌎</h3><br/>
-<p>HELLO WORLD! I'm a Frontend web developer and UX/UI Designer with a background in Audiovisual Production. I have experience in Frontend development and skills in Agile methodologies. In addition to technical skills such as JavaScript, TypeScript, React, Angular, and TailwindCSS, I've worked on both individual and group projects, which has helped me develop soft skills like effective communication, teamwork, adaptability, and problem-solving.
+<p>HELLO WORLD! I'm a Frontend Web Developer and UX/UI Designer with a background in Audiovisual Production and Moda's Desing. My expertise lies in Frontend development, coupled with proficiency in Agile methodologies. Beyond technical prowess encompassing JavaScript, TypeScript, React, Angular, and TailwindCSS, my journey through various individual and collaborative projects has honed my soft skills in effective communication, teamwork, adaptability, and problem-solving
 </p>
 
 <h3 align="center">​I love teamwork</h3>
