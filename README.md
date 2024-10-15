@@ -85,7 +85,7 @@
 const VioleHours = {
   pronouns: 'she' || 'her',
   code: {
-    inProgress: [ "PHP", "React Native", "Vue", "C#", "JAVA" ]
+    inProgress: [ "React Native", "Vue", "C#", "JAVA" ]
   },
   contact: {
     email: "VioleHours@gmail.com",
