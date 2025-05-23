@@ -20,6 +20,7 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="65" />
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="65" />
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="JAVA" height="65" />
     </div>
   </div>
   <div style="flex-grow: 1; text-align: center;">
@@ -85,7 +86,7 @@
 const VioleHours = {
   pronouns: 'she' || 'her',
   code: {
-    inProgress: [ "NativeScript", "Vue", "C#", "JAVA" ]
+    inProgress: [ "NativeScript", "Vue", "C#", "JHipster" ]
   },
   contact: {
     email: "VioleHours@gmail.com",
